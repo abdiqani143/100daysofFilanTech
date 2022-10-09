@@ -20,4 +20,4 @@
 
 **Today's Progress**: To day I solved the Learn HTML by building Cafe Menu , Colored Markers, Registeration Form and HTML_CSS Quiz on Freecodecamp's Responsive web design challenges.
 
-**Link to work**: [Qiuz App](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/chapter_14)
+**Link to work**: [Qiuz App](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_3/html_css_quiz)
