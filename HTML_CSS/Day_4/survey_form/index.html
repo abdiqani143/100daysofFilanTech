@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="container">
+    <header class="header">
+    <h1 id="title" class="text-center">FilaTech Survey Form</h1>
+    <p id="description" class="description-center">Thank you for taking the time to help us improve the platform</p>
+    </header><br>
+    
+    <form id="survey-form">
+      <div class="form-group">
+        <label for="name" id="name-label">Name</label><br>
+      <input type="text" id="name"name="name" class="form-control"
+      placeholder="Enter Your Name" required>
+      </div><br>
+      
+     <div class="form-group">
+         <label for="email" id="email-label">Email</label><br>
+      <input type="email"  id="email" class="form-control"
+       placeholder="Enter Your Email" required>
+      </div><br>
+      
+      <div class="form-group">
+         <label for="number" id="number-label">Age(optional)</label><br>
+      <input type="number"  id="number" class="form-control"
+      min="5" max="100"placeholder="Age" required>
+      </div><br>
+
+       <div class="form-group">
+         <p >Which option best describes your current role?</p>
+      <select id="dropdown" id="role" class="form-control" required>
+        <option selected disabled value="">Select Current Role</option>
+        <option>Student</option>
+        <option>Full-Time Job</option>
+        <option>Full-Time Learne</option>
+        <option>Prefer Not To Say</option>
+        <option>Others</option>
+        </select>
+      </div><br>
+      <div class="form-group">
+        <p>Would you recommend filantech to a friend?</p>
+        <label>
+        <input type="radio" name="radio-group" id="definitely" class="radio-input" value="0">Definitely</label><br>
+        <label><input type="radio" name="radio-group"  id="definitely" class="radio-input"  value="1">Maybe<br></label
+        <label><input type="radio" name="radio-group"  id="definitely" class="radio-input" value="2">Not sure</label>
+        </div><br>
+
+       <div class="form-group">
+     <p>What is your favorite feature of filantech?</p>
+      <select id="dropdown" name="dropdown" class="form-control" required>
+        <option selected disabled value="">Select An Option</option>
+        <option value="challenges">Challenges</option>
+        <option value="challenges">Projects</option>
+        <option value="community">Community</option>
+        <option value="opensource">Open Source</option>
+        </select>
+        </div><br>
+        <div class="form-group">
+        <p>What would you like to see improved? (Check all that apply)</p> 
+        <label><input type="checkbox"value="0">Front-end Projects</label><br>
+        <label><input type="checkbox"value="1">Back-end Projects</label><br>
+        <input type="checkbox"value="2">Data Visualization</label><br>
+        <input type="checkbox"value="3">Challenges</label><br>
+        <input type="checkbox"value="4">Open Source Community</label><br>
+        <input type="checkbox"value="5">Additional Courses</label><br>
+        <input type="checkbox"value="6">City Meetups
+      </div><br>
+        
+        <div class="form-group">
+        <p>Any comments or suggestions?</p><br>
+        <textarea id="comments" name="comments" classs="input-textarea" placeholder="Enter Your Comment Here..." rows="5" cols="60"></textarea>
+        </div>
+        
+      <br>
+
+         <div class="form-group">
+       <button type="submit" id="submit" class="submit-button">Submit</button>
+       </div>
+    </form>
+    
+    </div>
+    <body>
+</html>
