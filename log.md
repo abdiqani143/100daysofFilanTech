@@ -18,12 +18,18 @@
 
 ### Day 3: October 9, 2022
 
-**Today's Progress**: To day I solved the Learn HTML by building Cafe Menu , Colored Markers, Registeration Form and HTML_CSS Quiz on Freecodecamp's Responsive web design challenges.
+**Today's Progress**: To day I solved the Learn HTML and CSS by building Cafe Menu , Colored Markers, Registeration Form and HTML_CSS Quiz on Freecodecamp's Responsive web design challenges.
 
 **Link to work**: [Qiuz App](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_3/html_css_quiz)
 
-### Day 3: October 9, 2022
+### Day 4: October 10, 2022
 
-**Today's Progress**: To day I solved the Learn HTML by building Survey_Form , Photo_Gallery and  Rothko_Painting  on Freecodecamp's Responsive web design challenges.
+**Today's Progress**: To day I solved the Learn HTML and CSS by building Survey_Form , Photo_Gallery and  Rothko_Painting  on Freecodecamp's Responsive web design challenges.
 
 **Link to work**: [Survey Form](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_4/survey_form)
+
+### Day 5: October 11, 2022
+
+**Today's Progress**: Today I solved the Learn HTML and CSS by building Nutrition label  on Freecodecamp's Responsive web design challenges.
+
+**Link to work**: [Nutrition Label](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_4/survey_form)

@@ -1,87 +1,110 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Survey Form</title>
-    <link rel="stylesheet" href="styles.css">
-  </head>
-  <body>
-    <div class="container">
-    <header class="header">
-    <h1 id="title" class="text-center">FilaTech Survey Form</h1>
-    <p id="description" class="description-center">Thank you for taking the time to help us improve the platform</p>
-    </header><br>
-    
-    <form id="survey-form">
-      <div class="form-group">
-        <label for="name" id="name-label">Name</label><br>
-      <input type="text" id="name"name="name" class="form-control"
-      placeholder="Enter Your Name" required>
-      </div><br>
-      
-     <div class="form-group">
-         <label for="email" id="email-label">Email</label><br>
-      <input type="email"  id="email" class="form-control"
-       placeholder="Enter Your Email" required>
-      </div><br>
-      
-      <div class="form-group">
-         <label for="number" id="number-label">Age(optional)</label><br>
-      <input type="number"  id="number" class="form-control"
-      min="5" max="100"placeholder="Age" required>
-      </div><br>
-
-       <div class="form-group">
-         <p >Which option best describes your current role?</p>
-      <select id="dropdown" id="role" class="form-control" required>
-        <option selected disabled value="">Select Current Role</option>
-        <option>Student</option>
-        <option>Full-Time Job</option>
-        <option>Full-Time Learne</option>
-        <option>Prefer Not To Say</option>
-        <option>Others</option>
-        </select>
-      </div><br>
-      <div class="form-group">
-        <p>Would you recommend filantech to a friend?</p>
-        <label>
-        <input type="radio" name="radio-group" id="definitely" class="radio-input" value="0">Definitely</label><br>
-        <label><input type="radio" name="radio-group"  id="definitely" class="radio-input"  value="1">Maybe<br></label
-        <label><input type="radio" name="radio-group"  id="definitely" class="radio-input" value="2">Not sure</label>
-        </div><br>
-
-       <div class="form-group">
-     <p>What is your favorite feature of filantech?</p>
-      <select id="dropdown" name="dropdown" class="form-control" required>
-        <option selected disabled value="">Select An Option</option>
-        <option value="challenges">Challenges</option>
-        <option value="challenges">Projects</option>
-        <option value="community">Community</option>
-        <option value="opensource">Open Source</option>
-        </select>
-        </div><br>
-        <div class="form-group">
-        <p>What would you like to see improved? (Check all that apply)</p> 
-        <label><input type="checkbox"value="0">Front-end Projects</label><br>
-        <label><input type="checkbox"value="1">Back-end Projects</label><br>
-        <input type="checkbox"value="2">Data Visualization</label><br>
-        <input type="checkbox"value="3">Challenges</label><br>
-        <input type="checkbox"value="4">Open Source Community</label><br>
-        <input type="checkbox"value="5">Additional Courses</label><br>
-        <input type="checkbox"value="6">City Meetups
-      </div><br>
-        
-        <div class="form-group">
-        <p>Any comments or suggestions?</p><br>
-        <textarea id="comments" name="comments" classs="input-textarea" placeholder="Enter Your Comment Here..." rows="5" cols="60"></textarea>
-        </div>
-        
-      <br>
-
-         <div class="form-group">
-       <button type="submit" id="submit" class="submit-button">Submit</button>
-       </div>
-    </form>
-    
-    </div>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Survey Form</title>
+    </head>
     <body>
+        <h1 id="title">FillanTech Survey Form</h1>
+        <p id="description">Thank you for taking the time to help us improve the platform</p>
+        <form id="survey-form">
+            <div class="main-input">
+                <label for="name" id="name-label">Name</label><br>
+                <input type="text" id="name" required placeholder="Enter your name">
+            </div>
+
+            <div class="main-input">
+                <label for="email" id="email-label">Email</label><br>
+                <input type="email" id="email" required placeholder="Enter your Email">
+            </div>
+
+            <div class="main-input">
+                <label for="number" id="number-label">Age (optional)</label><br>
+                <input type="number" id="number" min="0" max="100" placeholder="Age">
+            </div>
+
+            <div class="main-input">
+                <p>Which option best describes your current role?</p>
+                <select id="dropdown">
+                    <option value="" disabled selected>Select current role</option>
+                    <option value="student">Student</option>
+                    <option value="full-time-job">Full Time Job</option>
+                    <option value="full-time-learner">Full Time Learner</option>
+                    <option value="prefer-not-to-say">Prefer not to say</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+
+            <div class="recommend">
+                <p>Would you recommend fillantech to a friend?</p>
+                <input type="radio" id="definitely" name="recommend" value="Definitely">
+                <label for="definitely">Definitely</label>
+                <br>
+                <input type="radio" id="maybe" name="recommend" value="Maybe">
+                <label for="maybe">Maybe</label>
+                <br>
+                <input type="radio" id="not-sure" name="recommend" value="Not sure">
+                <label for="not-sure">Not Sure</label>
+                <br>
+            </div>
+
+            <div class="main-input">
+                <p>What is your favorite feature of fillantech?</p>
+                <select name="" id="">
+                    <option value="" disabled selected>Select an option</option>
+                    <option value="challenges">Challenges</option>
+                    <option value="projects">Projects</option>
+                    <option value="community">Community</option>
+                    <option value="open-source">Open Source</option>
+                </select>
+            </div>
+
+            <div id="improvement">
+                <p>What would you like to see improved? (Check all that apply)</p>
+                <input type="checkbox" id="front-end" value="front-end">
+                <label for="front-end">Front-end Projects</label>
+                <br>
+                <input type="checkbox" id="back-end" value="back-end">
+                <label for="back-end">Back-end Projects</label>
+                <br>
+                <input type="checkbox" id="data-visulization" value="data-visulization">
+                <label for="data-visulization">Data Visualization</label>
+                <br>
+                <input type="checkbox" id="challenges" value="challenges">
+                <label for="challenges">Challenges</label>
+                <br>
+                <input type="checkbox" id="open-source" value="open-source">
+                <label for="open-source">Open Source Community</label>
+                <br>
+                <input type="checkbox" id="gitter" value="gitter">
+                <label for="gitter">Gitter help rooms</label>
+                <br>
+                <input type="checkbox" id="videos" value="videos">
+                <label for="videos">Videos</label>
+                <br>
+                <input type="checkbox" id="city-meetups" value="city-meetups">
+                <label for="city-meetups">City Meetups</label>
+                <br>
+                <input type="checkbox" id="wiki" value="wiki">
+                <label for="wiki">Wiki</label>
+                <br>
+                <input type="checkbox" id="forum" value="forum">
+                <label for="forum">Forum</label>
+                <br>
+                <input type="checkbox" id="additional-courses" value="additional-courses">
+                <label for="additional-courses">Additional Courses</label>
+                <br>
+            </div>
+
+            <div>
+                <p>Any comments or suggestions?</p>
+                <textarea cols="30" rows="10" placeholder="Enter your comment here..."></textarea>
+            </div>
+
+            <button id="submit" type="submit">Submit</button>
+        </form>
+    </body>
+   
 </html>
