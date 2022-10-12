@@ -33,3 +33,10 @@
 **Today's Progress**: Today I solved the Learn HTML and CSS by building Nutrition label  on Freecodecamp's Responsive web design challenges.
 
 **Link to work**: [Nutrition Label](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_5)
+
+### Day 6: October 12, 2022
+
+**Today's Progress**: Today I build my portfolio website in HTML & CSS and also building  Tribute Page on Freecodecamp's Responsive web design challenges.
+
+**Link to work**: [Portfolio Website](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_5)
+**Link to work**: [Tribute Page](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_5)
