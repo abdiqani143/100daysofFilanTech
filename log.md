@@ -38,5 +38,5 @@
 
 **Today's Progress**: Today I build my portfolio website in HTML & CSS and also building  Tribute Page on Freecodecamp's Responsive web design challenges.
 
-**Link to work**: [Portfolio Website](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_5)
-**Link to work**: [Tribute Page](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_5)
+**Link to work**: [Portfolio Website](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_6/portfolio)
+**Link to work**: [Tribute Page](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_6/tribute%20page)
