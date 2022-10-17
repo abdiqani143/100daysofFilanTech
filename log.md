@@ -51,5 +51,6 @@
 
 **Today's Progress**: Today I learn some  basic in javascript like variables, operators, arthematic operators. control flow, switch statements and loops.
 
-**Link to work**: [Basics In JavaScript](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_7)
+**Link to work**: [Basics In JavaScript](https://github.com/abdiqani143/100daysofFilanTech/tree/main/)
+
 
