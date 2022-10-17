@@ -47,7 +47,7 @@
 
 **Link to work**: [Lande Page Website](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_7)
 
-### Day 7: October 16, 2022
+### Day 8: October 16, 2022
 
 **Today's Progress**: Today I learn some  basic in javascript like variables, operators, arthematic operators. control flow, switch statements and loops.
 
