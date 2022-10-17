@@ -41,9 +41,15 @@
 **Link to work**: [Portfolio Website](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_6/portfolio)
 **Link to work**: [Tribute Page](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_6/tribute%20page)
 
-### Day 7: October 13, 2022
+### Day 7: October 15, 2022
 
 **Today's Progress**: Today I build Coming Soon Lande Page Website in HTML & CSS and also practice Building Balance Sheet on Freecodecamp's Responsive web design challenges.
 
 **Link to work**: [Lande Page Website](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_7)
+
+### Day 7: October 16, 2022
+
+**Today's Progress**: Today I learn some  basic in javascript like variables, operators, arthematic operators. control flow, switch statements and loops.
+
+**Link to work**: [Basics In JavaScript](https://github.com/abdiqani143/100daysofFilanTech/tree/main/HTML_CSS/Day_7)
 
