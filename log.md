@@ -57,6 +57,6 @@
 
 **Today's Progress**: Today I learn some  basic in javascript like array, functions, and objects.
 
-**Link to work**: [Basics In JavaScript](https://github.com/abdiqani143/100daysofFilanTech/tree/main/)
+**Link to work**: [Basics In JavaScript](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_9)
 
 
