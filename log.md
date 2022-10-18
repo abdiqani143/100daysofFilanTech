@@ -61,8 +61,8 @@
 
 ### Day 10: October 18, 2022
 
-**Today's Progress**: Today I learn some  basic in javascript like DOM, Mouse Event, Keyboard Event.
+**Today's Progress**: Today I learn some  basic in javascript like DOM, Mouse Event and  Keyboard Event.
 
-**Link to work**: [Basics In JavaScript](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_9)
+**Link to work**: [DOM](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_10)
 
 
