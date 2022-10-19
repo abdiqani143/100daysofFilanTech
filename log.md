@@ -65,4 +65,10 @@
 
 **Link to work**: [DOM](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_10)
 
+### Day 11: October 19, 2022
+
+**Today's Progress**: Today I build form validation and counter app in javascript.
+
+**Link to work**: [DOM](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_10)
+
 
