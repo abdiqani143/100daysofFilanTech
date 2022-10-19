@@ -69,6 +69,6 @@
 
 **Today's Progress**: Today I build form validation and counter app in javascript.
 
-**Link to work**: [DOM](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_10)
+**Link to work**: [Counter App](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_11/Counter_App)
 
 
