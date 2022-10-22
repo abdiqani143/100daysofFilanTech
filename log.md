@@ -75,6 +75,6 @@
 
 **Today's Progress**: Today I build quiz app in javascript.
 
-**Link to work**: [Quiz App](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_11/Counter_App)
+**Link to work**: [Quiz App](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_12/quiz_app)
 
 
