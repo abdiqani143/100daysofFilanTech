@@ -71,10 +71,16 @@
 
 **Link to work**: [Counter App](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_11/Counter_App)
 
-### Day 11: October 22, 2022
+### Day 12: October 22, 2022
 
 **Today's Progress**: Today I build quiz app in javascript.
 
 **Link to work**: [Quiz App](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_12/quiz_app)
+
+### Day 13: October 23, 2022
+
+**Today's Progress**: Today I build responsive website.
+
+**Link to work**: [responsive website](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_12/quiz_app)
 
 
