@@ -79,8 +79,8 @@
 
 ### Day 13: October 23, 2022
 
-**Today's Progress**: Today I build responsive website.
+**Today's Progress**: Today I learn how to build responsive website in html and css.
 
-**Link to work**: [responsive website](https://github.com/abdiqani143/100daysofFilanTech/tree/main/JavaScript/Day_12/quiz_app)
+**Link to work**: [responsive website](https://github.com/abdiqani143/100daysofFilanTech/tree/main/Responsive_Website/Day_13/Product_preview_card_component)
 
 
