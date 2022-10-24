@@ -1,0 +1,124 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+/* font-family: 'Fraunces', serif;
+font-family: 'Red Hat Display', sans-serif; */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-size: 'Hat Display', sans-serif ;
+    background-color:  hsl(225, 100%, 94%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+button{
+    font-size: inherit;
+}
+
+.img_back{
+    background: url(./images/pattern-background-mobile.svg)
+    no-repeat center/cover;
+
+    height: 400px;
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+p{
+    font-size: 16px;
+    color: hsl(224, 23%, 55%);
+    line-height: 1.6;
+   
+ 
+}
+
+.btn{
+    border: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+.change{
+    text-decoration: underline;
+    background-color: transparent;
+    color: hsl(245, 75%, 52%);
+    
+}
+
+.primary{
+    background-color:hsl(245, 75%, 52%) ;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.secondary{
+    background-color: transparent;
+    color: hsl(224, 23%, 55);
+}
+
+.container{
+   align-items: center;
+   padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px hsl(23%, 34%, 0.14%);
+    width: 450px;
+}
+
+.container h1{
+    color: hsl(223, 47%, 23%);
+    margin: 10px 0;
+}
+
+.container img .hero{
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+.container .pricing{
+    margin: 30px auto; 
+    padding: 10px;
+    background-color: hsl(225, 100%, 98%);
+    width: 90%;
+    border-radius: 5px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+}
+
+.pricing .change{
+    padding-left: 200px;
+}
+
+.container .pricing article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container .pricing article img{
+    margin-right: 10px;
+   
+}
+
+.container .buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+}

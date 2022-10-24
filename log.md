@@ -83,4 +83,9 @@
 
 **Link to work**: [responsive website](https://github.com/abdiqani143/100daysofFilanTech/tree/main/Responsive_Website/Day_13/Product_preview_card_component)
 
+### Day 14: October 24, 2022
+
+**Today's Progress**: Today I build Order Summary in html and css.
+
+**Link to work**: [Order Summary](https://github.com/abdiqani143/100daysofFilanTech/tree/main/Responsive_Website/Day_13/Product_preview_card_component)
 
