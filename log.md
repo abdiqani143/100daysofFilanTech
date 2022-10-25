@@ -89,3 +89,9 @@
 
 **Link to work**: [Order Summary](https://github.com/abdiqani143/100daysofFilanTech/tree/main/Responsive_Website/Day_14)
 
+### Day 15: October 25, 2022
+
+**Today's Progress**: Today I build Order Summary responsive navigation bar html and css.
+
+**Link to work**: [Responsive Navigation Bar](https://github.com/abdiqani143/100daysofFilanTech/tree/main/Responsive_Website/Day_14)
+
