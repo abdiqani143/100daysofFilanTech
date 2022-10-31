@@ -1,0 +1,214 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+/* Start Nav Bar Styling */
+ ul{
+    list-style: none;
+}
+.logo{
+    font-size: 30px;
+}
+.navbar{
+    position: absolute;
+    display: flex;
+    top: 0;
+    left: 0;
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
+    color: #fff;
+}
+.navlinks{
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+}
+.navlinks li a{
+    padding: 25px;
+    color: #fff;
+    font-size: 20px;
+}
+.active{
+    background-color: yellowgreen;
+    font-weight: bold;
+    border-radius: 15px;
+   
+}
+.navlinks .checkbtn{
+    margin: 0 20px;
+    font-size: 30px;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    color: #fff;
+    
+    cursor: pointer;
+    display: none;
+}
+
+/* End Nav Bar Styling */
+header{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./image/1.jpg);
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header-content {
+    margin-bottom: 190px;
+    color: #fff;
+    text-align: center;
+}
+.header-content h2{
+    font-size: 4.5vmin;
+}
+
+.line{
+    width: 150px;
+    height: 4px;
+    background-color: crimson;
+    margin: 10px auto;
+}
+
+.header-content h1{
+    font-size: 7vmin;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.cta{
+    padding: 8px 15px;
+    background-color: crimson;
+    border-radius: 10px;
+    color: #fff;
+}
+
+/* Events */
+section{
+    width: 80%;
+    margin: 80px auto;
+
+}
+.title{
+    font-size: 4vmin;
+    text-align: center;
+}
+.row{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.row .col img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    height: 40vh;
+    border-radius: 20px;
+}
+.row .col img{
+    width: 30%;
+    height: 40vh;
+    border-radius: 20px;
+}
+.row .col h4{
+    font-size: 3vmin;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+.row .col p{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    
+}
+.row .col a{
+    margin-bottom: 30px;
+}
+.row .col img{
+    padding: 0 50px;
+    width: 30%;
+    height: 40vh;
+   border-radius: 20px;
+}
+
+.row .col h4{
+    font-size: 3vmin;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+.row .col p{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:850px){
+    .navbar{
+        padding:0;
+    }
+    .logo{
+        position: absolute;
+        top: 60px;
+        left: 30px;
+        font-size: 20px;
+    }
+    .checkbtn{
+        display: block;
+        padding-bottom: 40px;
+       }
+    .navlinks{
+       
+        flex-direction:column ;
+        width: 100%;
+        height: 100vh;
+        justify-content: center;
+        background-color: rgb(59, 59, 158);
+        transition: all .5s;
+      left: 0;
+      
+    }
+    .navbar .navlinks li{
+        margin: 20px;
+        display: block;
+       
+    }
+   
+    
+}

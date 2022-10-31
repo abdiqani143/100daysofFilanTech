@@ -95,3 +95,14 @@
 
 **Link to work**: [Responsive Navigation Bar](https://github.com/abdiqani143/100daysofFilanTech/tree/main/Responsive_Website/Day_15/Responsive%20Navigation%20Bar)
 
+### Day 16: October 28, 2022
+
+**Today's Progress**: Today I also build  responsive navigation bar html and css.
+
+**Link to work**: [Responsive Navigation Bar](https://github.com/abdiqani143/100daysofFilanTech/tree/main/Responsive_Website/Day_15/Responsive%20Navigation%20Bar)
+
+### Day 17: October 31, 2022
+
+**Today's Progress**: Today I build website in  html and css.
+
+**Link to work**: [Responsive Navigation Bar](https://github.com/abdiqani143/100daysofFilanTech/tree/main/Responsive_Website/Day_15/Responsive%20Navigation%20Bar)
