@@ -193,3 +193,67 @@ color: #3278fa !important;
     width: 100%;
 }
 /* End Main Design */
+
+/* Start Who We Are Design Qeybta Section */
+.who-we-are{
+    width: 100%;
+    padding: 72px 0px 72px 0px;
+    background-image: url(./img/4.jpg);
+    background-size: cover;
+    clear: both;
+    float: left;
+}
+.who-we-are .heading h2{
+    font-size: 35px;
+    line-height: 35px;
+    margin-bottom: 20px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #fff;
+}
+.who-we-are .heading p{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 25px;
+    color: #fff;
+    display: block;
+    justify-content: center;
+    
+    text-align: center;
+}
+.who-we-are .col-1{
+    width: 33.333%;
+    float: left;
+    padding: 0 15px;
+    margin-top: 60px;
+
+}
+.who-we-are .col-1 img{
+   max-width: 100%;
+   display: block;
+   margin: 0 auto;
+
+}
+.who-we-are .col-1 .text-box{
+    padding: 10%;
+    width: 100%;
+    background-color: #f3f3f3;
+    text-align: center;
+}
+.who-we-are .col-1 .text-box h4{
+    margin-bottom: 9px;
+    text-transform: uppercase;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0.5px;
+
+}
+.who-we-are .col-1 .text-box p{
+    color: #727272;
+    line-height: 23px;
+    text-align: center;
+    margin: 0 0 10px;
+    font-size: 14px;
+}
+/* End Who We Are Design Qeybta Section */
