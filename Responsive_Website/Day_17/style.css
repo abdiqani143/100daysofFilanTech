@@ -257,3 +257,48 @@ color: #3278fa !important;
     font-size: 14px;
 }
 /* End Who We Are Design Qeybta Section */
+
+/* Start Section Full-dark Design*/
+.full-dark{
+    width: 100%;
+    padding: 72px 0 72px 0;
+    background-color: #121212;
+    float: left;
+     clear: both;
+}
+.full-dark .col-md-1{
+    width: 33.333%;
+    float: left;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 40px;
+}
+
+.full-dark .col-md-1 .icon{
+    float: left;
+    margin: 0px 20px 0px 0px;
+    color: #01d7a7 !important;
+    font-size: 32px;
+
+}
+.full-dark .col-md-1 .text-box-1{
+      padding: 0px 0px 0px 60px;
+      display: block;
+}
+.full-dark .col-md-1 .text-box-1 h5{
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #fff;
+    margin-bottom: 5px;
+      
+}
+.full-dark .col-md-1 .text-box-1 p{
+    font-size: 14px;
+    margin: 0px 0px 10px ;
+    line-height: 23px;
+    color: #fff;
+    opacity: 0.5;
+}
+/* End Section Full-dark Design*/
