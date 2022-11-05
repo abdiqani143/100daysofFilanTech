@@ -302,3 +302,64 @@ color: #3278fa !important;
     opacity: 0.5;
 }
 /* End Section Full-dark Design*/
+
+/* Start Our Services Design */
+.full-light{
+    width: 100%;
+    padding: 72px 0px 72px 0px;
+    float: left;
+    clear: both;
+    display: block;
+    background-color: #f3f3f3;
+}
+.full-light .heading{
+    padding-bottom: 40px;
+
+}
+.full-light .heading h2{
+    font-size: 35px;
+    line-height: 35px;
+    margin-bottom:  20px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #272727;
+}
+.full-light .heading p{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 25px;
+    color: #727272;
+    font-size: 14px;
+}
+.full-light .col-md-2{
+    width: 25%;
+    float: left;
+    padding: 0 15px;
+}
+.full-light .col-md-2 .inner{
+    padding: 20px;
+    text-align: center;
+    font-size:14px ;
+    background-color: #fff;
+}
+.full-light .col-md-2 .inner img{
+    max-width: 33.333%;
+    height: auto;
+    margin-bottom: 20px;
+    vertical-align: middle;
+
+}
+.full-light .col-md-2 .inner h6{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 21px;
+}
+.full-light .col-md-2 .inner p{
+    line-height: 23px;
+    color: #727272;
+    margin:  0 0 10px;
+}
+/* End Our Services Design */
